@@ -1,0 +1,14 @@
+checkbox-text
+checkbox id=logcheck
+label for logcheck class of text.content 
+should be Remember me
+a tag.content should be forgot password
+
+
+css
+-checkbox should be flexed,space btw,
+-checkbox-content should be flexed,
+align centered
+-input should have an accent color of #4070f4
+margin,
+-  

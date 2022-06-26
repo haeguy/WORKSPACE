@@ -1,0 +1,10 @@
+VSCODE SHORTCUT
+
+
+1-add multiple cursors(alt + click )
+2-SELECT WORD (ctrl + right/left arrow key)
+3-open/close (open/close sidebar)
+4-add cursor above/below (ctrl + alt + up/down arrow key)
+5-select the next occurence (ctrl + d)
+6-shift the whole line up/down (alt + up/down arrow key)
+7-

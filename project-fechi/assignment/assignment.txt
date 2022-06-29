@@ -1,0 +1,10 @@
+1: Rename the CONTACTpage in your PROJECT-FECHI to EMPLOYEE-FORM2
+2: Note: the moment u change the name everything will change especially the URL
+3: Open the new page u've changed i.e EMPLOYEE_FORM2 in your browser
+4: Copy the URL and paste it in the second link in ur HOMEpage so that when you click on the link, it takes you to EMPLOYEE-FORM2
+5: Open the EMPLOYEE-FORM2 with ur editor
+6: No tell me u no know watin to do....
+7: you will see an image inside this assignment folder. 
+8: Clone it!!!!
+9: if you get it, i promise to clap for you!!!!
+10. There's one i haven't taught you but i created an expo on how to do it in the EMPLOYEE-FORM. study it!!! i mean study it cos you will explain to me on how it works.

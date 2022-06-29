@@ -1,0 +1,21 @@
+body{
+    background-color:blue;
+}
+ .button{
+    align-items: center;
+    justify-content: center;
+    display:flex;
+    height:100vh;
+}
+.button .text{
+    border-color:rgb(177, 185, 177);
+    padding:10px 30px 10px 30px;
+    border-radius: 10px;
+    background-color:transparent;
+    border-style: ridge;
+    font-size:14px;
+    font-weight:bold;
+}
+.text:hover{
+    background-color:rgb(175, 179, 175);
+}
